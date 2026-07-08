@@ -8,6 +8,6 @@ public class userinput {
         System.out.println("Welcome " + name );
         System.out.print(name + " Also Enter Your Age:");
         int Age = input.nextInt();
-        System.out.println("You are "+ Age + " Old, Great!");
+        System.out.println("You are "+ Age + "Years Old, Great!");
     }
 }
